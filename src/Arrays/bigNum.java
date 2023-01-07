@@ -4,7 +4,7 @@ package Arrays;
 public class bigNum {
 	public static void main(String args[])
 	{
-		int a[]={1,4,7,8,15,8,10};
+		int a[]={1,4,7,76,8,15,8,10};
 		int g=a[0];
 		for(int i=1;i<a.length;i++)
 			if(a[i]>g)
